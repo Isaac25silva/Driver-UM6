@@ -1,4 +1,4 @@
-Drivers-um7
+Drivers-um6
 ===========
 
 Driver for the CH Robotics UM6 inertial measurement device.  
