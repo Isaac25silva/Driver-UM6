@@ -37,5 +37,6 @@ Boost library dependencies:
     make  
     sudo make install  
 
-**Maybe you need change the permissions**  
-chmod 777 /dev/ttyUSB*
+**Perhaps you need change the permissions** 
+
+    chmod 777 /dev/ttyUSB*
