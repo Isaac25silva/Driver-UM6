@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Isaac25silva/Driver-UM6.svg?branch=master)](https://travis-ci.org/Isaac25silva/Driver-UM6)
+
 Drivers-um6
 ===========
 
